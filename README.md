@@ -34,11 +34,13 @@ Backend
 
 The attached links are for better understanding.
 
-[Project documentation](https://docs.google.com/document/d/12BSiM8h3QpOXKYy_hLVxyWAap2OBQMh8mFx8HcrEYlo/edit)
+[Project documentation](https://docs.google.com/document/d/1C49TpRLUwrwKEld5i5nsuVUC1defa0V-poB04tOSnqE/edit)
 
 [Figma](https://www.figma.com/file/do7Ne8ggW8jVmIVHpbhwK5/DESIGN-SKETCH?node-id=81%3A34&t=Hxm7DbuKTa6yATo8-1)
 
 [Database schema](https://www.figma.com/file/azGyCYE2udRMgLFG0PX5UO/Cardex-Mood-Board)
+
+[hosting link](https://zuriteamgiraffew2-project.000webhostapp.com/)
 
 ## Team Members
 
@@ -69,3 +71,9 @@ The attached links are for better understanding.
 13 [Oreoluwa Babatola](https://github.com/Oreoluwa-B)
 
 14 [UGBOAJAH SOLACE](https://github.com/USolace)
+
+15 [OLUWATOBI AJASA](https://github.com/Tobigreat)
+
+16 [Taiwo Obayemi](https://github.com/Oteez-bit)
+
+17 [Remion Tembei](https://gitHub.com/tebionyons)
